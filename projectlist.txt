@@ -1,0 +1,6 @@
+project list
+admission block
+dinning room
+library
+dormitory
+classes
